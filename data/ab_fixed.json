@@ -1,0 +1,266 @@
+[
+  {
+    "code": "gross",
+    "mode": "random",
+    "beta": 0.0,
+    "seed": 0,
+    "decoys": null,
+    "trials": 20000,
+    "elapsed_s": 12.2,
+    "failed_solves": 0,
+    "off_target_weights": 18610,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 4176
+      },
+      "14": {
+        "total": 18576,
+        "shift_unique": 258,
+        "published": 19728,
+        "match": false,
+        "trials_to_target": null
+      }
+    },
+    "arm": "random/0.0"
+  },
+  {
+    "code": "gross",
+    "mode": "random",
+    "beta": 0.0,
+    "seed": 1,
+    "decoys": null,
+    "trials": 20000,
+    "elapsed_s": 12.2,
+    "failed_solves": 0,
+    "off_target_weights": 18635,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 3676
+      },
+      "14": {
+        "total": 18504,
+        "shift_unique": 257,
+        "published": 19728,
+        "match": false,
+        "trials_to_target": null
+      }
+    },
+    "arm": "random/0.0"
+  },
+  {
+    "code": "gross",
+    "mode": "random",
+    "beta": 0.0,
+    "seed": 2,
+    "decoys": null,
+    "trials": 20000,
+    "elapsed_s": 12.2,
+    "failed_solves": 0,
+    "off_target_weights": 18568,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 4126
+      },
+      "14": {
+        "total": 18936,
+        "shift_unique": 263,
+        "published": 19728,
+        "match": false,
+        "trials_to_target": null
+      }
+    },
+    "arm": "random/0.0"
+  },
+  {
+    "code": "gross",
+    "mode": "random",
+    "beta": 0.0,
+    "seed": 3,
+    "decoys": null,
+    "trials": 20000,
+    "elapsed_s": 12.2,
+    "failed_solves": 0,
+    "off_target_weights": 18620,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 3421
+      },
+      "14": {
+        "total": 19224,
+        "shift_unique": 267,
+        "published": 19728,
+        "match": false,
+        "trials_to_target": null
+      }
+    },
+    "arm": "random/0.0"
+  },
+  {
+    "code": "gross",
+    "mode": "decoy",
+    "beta": 2.0,
+    "seed": 0,
+    "decoys": 8,
+    "trials": 20000,
+    "elapsed_s": 12.9,
+    "failed_solves": 0,
+    "off_target_weights": 18674,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 5807
+      },
+      "14": {
+        "total": 18576,
+        "shift_unique": 258,
+        "published": 19728,
+        "match": false,
+        "trials_to_target": null
+      }
+    },
+    "arm": "decoy/2.0"
+  },
+  {
+    "code": "gross",
+    "mode": "decoy",
+    "beta": 2.0,
+    "seed": 1,
+    "decoys": 8,
+    "trials": 20000,
+    "elapsed_s": 12.9,
+    "failed_solves": 0,
+    "off_target_weights": 18618,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 4877
+      },
+      "14": {
+        "total": 18648,
+        "shift_unique": 259,
+        "published": 19728,
+        "match": false,
+        "trials_to_target": null
+      }
+    },
+    "arm": "decoy/2.0"
+  },
+  {
+    "code": "gross",
+    "mode": "decoy",
+    "beta": 2.0,
+    "seed": 2,
+    "decoys": 8,
+    "trials": 20000,
+    "elapsed_s": 12.9,
+    "failed_solves": 0,
+    "off_target_weights": 18641,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 8093
+      },
+      "14": {
+        "total": 18504,
+        "shift_unique": 257,
+        "published": 19728,
+        "match": false,
+        "trials_to_target": null
+      }
+    },
+    "arm": "decoy/2.0"
+  },
+  {
+    "code": "gross",
+    "mode": "decoy",
+    "beta": 2.0,
+    "seed": 3,
+    "decoys": 8,
+    "trials": 20000,
+    "elapsed_s": 12.9,
+    "failed_solves": 0,
+    "off_target_weights": 18610,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 8515
+      },
+      "14": {
+        "total": 18936,
+        "shift_unique": 263,
+        "published": 19728,
+        "match": false,
+        "trials_to_target": null
+      }
+    },
+    "arm": "decoy/2.0"
+  }
+]

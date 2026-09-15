@@ -1,0 +1,98 @@
+[
+  {
+    "code": "gross",
+    "mode": "random",
+    "beta": 0.0,
+    "seed": 0,
+    "trials": 73613,
+    "elapsed_s": 45.0,
+    "failed_solves": 0,
+    "off_target_weights": 68525,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 4176
+      },
+      "14": {
+        "total": 19728,
+        "shift_unique": 274,
+        "published": 19728,
+        "match": true,
+        "trials_to_target": 42244
+      }
+    },
+    "arm": "random/0.0"
+  },
+  {
+    "code": "gross",
+    "mode": "random",
+    "beta": 0.0,
+    "seed": 1,
+    "trials": 73457,
+    "elapsed_s": 45.0,
+    "failed_solves": 0,
+    "off_target_weights": 68347,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 3676
+      },
+      "14": {
+        "total": 19728,
+        "shift_unique": 274,
+        "published": 19728,
+        "match": true,
+        "trials_to_target": 54670
+      }
+    },
+    "arm": "random/0.0"
+  },
+  {
+    "code": "gross",
+    "mode": "random",
+    "beta": 0.0,
+    "seed": 2,
+    "trials": 73483,
+    "elapsed_s": 45.0,
+    "failed_solves": 0,
+    "off_target_weights": 68345,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 4126
+      },
+      "14": {
+        "total": 19728,
+        "shift_unique": 274,
+        "published": 19728,
+        "match": true,
+        "trials_to_target": 35005
+      }
+    },
+    "arm": "random/0.0"
+  }
+]

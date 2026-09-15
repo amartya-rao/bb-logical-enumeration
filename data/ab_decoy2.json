@@ -1,0 +1,101 @@
+[
+  {
+    "code": "gross",
+    "mode": "decoy",
+    "beta": 2.0,
+    "seed": 0,
+    "decoys": 8,
+    "trials": 69485,
+    "elapsed_s": 45.0,
+    "failed_solves": 0,
+    "off_target_weights": 64821,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 4890
+      },
+      "14": {
+        "total": 19728,
+        "shift_unique": 274,
+        "published": 19728,
+        "match": true,
+        "trials_to_target": 35854
+      }
+    },
+    "arm": "decoy/2.0"
+  },
+  {
+    "code": "gross",
+    "mode": "decoy",
+    "beta": 2.0,
+    "seed": 1,
+    "decoys": 8,
+    "trials": 69304,
+    "elapsed_s": 45.0,
+    "failed_solves": 0,
+    "off_target_weights": 64655,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 5177
+      },
+      "14": {
+        "total": 19728,
+        "shift_unique": 274,
+        "published": 19728,
+        "match": true,
+        "trials_to_target": 56667
+      }
+    },
+    "arm": "decoy/2.0"
+  },
+  {
+    "code": "gross",
+    "mode": "decoy",
+    "beta": 2.0,
+    "seed": 2,
+    "decoys": 8,
+    "trials": 69350,
+    "elapsed_s": 45.0,
+    "failed_solves": 0,
+    "off_target_weights": 64689,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 3119
+      },
+      "14": {
+        "total": 19728,
+        "shift_unique": 274,
+        "published": 19728,
+        "match": true,
+        "trials_to_target": 34056
+      }
+    },
+    "arm": "decoy/2.0"
+  }
+]

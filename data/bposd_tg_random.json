@@ -1,0 +1,32 @@
+{
+  "code": "two-gross",
+  "mode": "random",
+  "beta": 2.0,
+  "seed": 0,
+  "decoys": null,
+  "trials": 30683,
+  "elapsed_s": 145.0,
+  "failed_solves": 0,
+  "off_target_weights": 30565,
+  "backend": "ldpc v2 (BpOsdDecoder)",
+  "settings": {
+    "max_iter": 40,
+    "osd_order": 7
+  },
+  "weights": {
+    "18": {
+      "total": 336,
+      "shift_unique": 3,
+      "published": 336,
+      "match": true,
+      "trials_to_target": 2127
+    },
+    "20": {
+      "total": 1728,
+      "shift_unique": 12,
+      "published": 1728,
+      "match": true,
+      "trials_to_target": 22079
+    }
+  }
+}

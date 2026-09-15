@@ -1,0 +1,98 @@
+[
+  {
+    "code": "gross",
+    "mode": "balanced",
+    "beta": 2.0,
+    "seed": 0,
+    "trials": 73159,
+    "elapsed_s": 45.0,
+    "failed_solves": 0,
+    "off_target_weights": 68105,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 6350
+      },
+      "14": {
+        "total": 19728,
+        "shift_unique": 274,
+        "published": 19728,
+        "match": true,
+        "trials_to_target": 42244
+      }
+    },
+    "arm": "balanced/2.0"
+  },
+  {
+    "code": "gross",
+    "mode": "balanced",
+    "beta": 2.0,
+    "seed": 1,
+    "trials": 72942,
+    "elapsed_s": 45.0,
+    "failed_solves": 0,
+    "off_target_weights": 67862,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 5643
+      },
+      "14": {
+        "total": 19728,
+        "shift_unique": 274,
+        "published": 19728,
+        "match": true,
+        "trials_to_target": 43707
+      }
+    },
+    "arm": "balanced/2.0"
+  },
+  {
+    "code": "gross",
+    "mode": "balanced",
+    "beta": 2.0,
+    "seed": 2,
+    "trials": 73358,
+    "elapsed_s": 45.0,
+    "failed_solves": 0,
+    "off_target_weights": 68234,
+    "backend": "ldpc v2 (BpOsdDecoder)",
+    "settings": {
+      "max_iter": 20,
+      "osd_order": 0
+    },
+    "weights": {
+      "12": {
+        "total": 1884,
+        "shift_unique": 30,
+        "published": 1884,
+        "match": true,
+        "trials_to_target": 4126
+      },
+      "14": {
+        "total": 19728,
+        "shift_unique": 274,
+        "published": 19728,
+        "match": true,
+        "trials_to_target": 32075
+      }
+    },
+    "arm": "balanced/2.0"
+  }
+]
